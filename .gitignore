@@ -1,0 +1,6 @@
+.venv
+.idea
+data.json
+__pycache__
+facebook.html
+test.png
